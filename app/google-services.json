@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "83706292402",
+    "firebase_url": "https://onlineshopping-ec86d.firebaseio.com",
+    "project_id": "onlineshopping-ec86d",
+    "storage_bucket": "onlineshopping-ec86d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83706292402:android:0ca56274c6e5858e",
+        "android_client_info": {
+          "package_name": "com.example.arta.online_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83706292402-tavghlu3f9gfdtke93fv9b2d46jftf6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arta.online_shop",
+            "certificate_hash": "17e5bd6297a462dbab83994df9f8425ea9915b06"
+          }
+        },
+        {
+          "client_id": "83706292402-ja7cd3n5s08tunnh6lgj7tn55mrksg1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfyhCDJLKXsAFaqroQlAi5p72R4xFILeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83706292402-ja7cd3n5s08tunnh6lgj7tn55mrksg1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
